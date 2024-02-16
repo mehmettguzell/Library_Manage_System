@@ -1,0 +1,8 @@
+Machine Learning for Beginners,Alice Johnson,2019,250
+Data Structures and Algorithms,David Brown,2018,400
+Introduction to Java,Michael Lee,2021,300
+Python Programming,John Smith,1980,410
+
+
+
+
